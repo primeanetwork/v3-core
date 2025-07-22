@@ -1,5 +1,5 @@
 {
-  "name": "@primeanetowork/v3-core",
+  "name": "@primeanetwork/v3-core",
   "description": "🪙 Core smart contracts of PrimeaSwap, adapted from Uniswap v3 for asset-backed DeFi and governed liquidity.",
   "license": "GPL-2.0-or-later",
   "publishConfig": {
