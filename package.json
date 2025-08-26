@@ -3,7 +3,9 @@
   "description": "Primea fork — independent fork of upstream Uniswap repo",
   "license": "BUSL-1.1",
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://registry.npmjs.org/",
+    "tag": "primea-alpha"
   },
   "version": "1.0.1",
   "homepage": "https://github.com/primeanetwork/v3-core#readme",
